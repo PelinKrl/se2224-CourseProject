@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"se2224project","l":"InsertTaskFrame"},{"p":"se2224project","l":"LoginFrame"},{"p":"se2224project","l":"MainFrame"},{"p":"se2224project","l":"User"}];updateSearchResults();
